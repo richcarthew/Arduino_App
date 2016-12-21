@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/richcarthew/AndroidStudioProjects/ArduinoBluetooth01/app/build/intermediates/res/merged/debug/raw/video1.mp4",
+        "source": "/Users/richcarthew/AndroidStudioProjects/ArduinoBluetooth01/app/src/main/res/raw/video1.mp4"
+    },
+    {
+        "merged": "/Users/richcarthew/AndroidStudioProjects/ArduinoBluetooth01/app/build/intermediates/res/merged/debug/raw/video2.mp4",
+        "source": "/Users/richcarthew/AndroidStudioProjects/ArduinoBluetooth01/app/src/main/res/raw/video2.mp4"
+    }
+]
